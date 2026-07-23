@@ -1,0 +1,45 @@
+generated: '2026-07-17'
+method: searched
+source: https://developer.aerohive.com/docs/overview
+summary: >-
+  Aerohive Networks was acquired by Extreme Networks (closed 2019-08-09). Its
+  cloud-managed WiFi platform was rebranded/migrated to ExtremeCloud IQ, and the
+  legacy Aerohive (HiveManager NG / ACS) developer API and its portal were
+  retired. The legacy developer portal (developer.aerohive.com) carried a
+  shutdown notice and the domain now resolves to 127.0.0.1 (offline). New
+  developer accounts were no longer being issued; existing integrations were
+  directed to migrate to the Extreme Platform ONE Developer Portal.
+status: retired
+lifecycle_stage: end-of-life
+acquisition:
+  acquirer: Extreme Networks
+  announced: '2019-06-26'
+  closed: '2019-08-09'
+  price_usd: 272000000
+deprecation:
+  deprecated: true
+  api: Legacy Aerohive API (HiveManager NG / ACS)
+  sunset_date: '2026-07-12'
+  notice: >-
+    Legacy Aerohive API and the developer.aerohive.com portal scheduled for
+    shutdown on 2026-07-12; endpoints and portal no longer available afterward.
+  observed_offline: true
+  observed_date: '2026-07-17'
+migration:
+  successor_platform: ExtremeCloud IQ
+  successor_developer_portal: Extreme Platform ONE Developer Portal
+  successor_apis:
+    - Common Services APIs
+    - ExtremeCloud IQ APIs
+    - MSP APIs
+    - SDWAN APIs
+  guide: Legacy Aerohive API Migration Guide (XIQ / Platform ONE)
+status_page: null
+sla: null
+evidence:
+  - source: https://developer.aerohive.com/docs/overview
+    note: Legacy portal overview carried the 2026-07-12 shutdown + migration notice
+  - source: https://www.prnewswire.com/news-releases/extreme-networks-completes-acquisition-of-aerohive-networks-300899390.html
+    note: Extreme Networks completed acquisition 2019-08-09
+  - source: dig developer.aerohive.com A -> 127.0.0.1
+    note: Legacy developer portal offline as of 2026-07-17
