@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Aerohive is a company surfaced as a portfolio company of lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: lightspeed-venture-partners
+Aerohive Networks was a cloud-managed networking company founded in 2006 by Changming Liu and headquartered in Milpitas, California. It pioneered controller-less, cloud-managed Wi-Fi and edge networking, managed through its HiveManager NG (later ExtremeCloud IQ) platform and access points. Aerohive went public on the NYSE under the ticker HIVE and was acquired by Extreme Networks in a deal that closed on 2019-08-09 for approximately $272 million. The company operated an Aerohive Developer Program with a public developer portal (developer.aerohive.com) and REST APIs for the HiveManager NG / ACS platform, plus a GitHub organization of reference applications. Following the acquisition the products were folded into ExtremeCloud IQ, and the legacy Aerohive API and its developer portal were retired (shutdown dated 2026-07-12), with integrators directed to migrate to the Extreme Platform ONE Developer Portal. This profile enriches the historical Aerohive API surface; it is a retired/acquired provider.
+
+**Areas:** Company · Networking · Wireless · Wi-Fi · Cloud Management · Enterprise Networking · Access Points · Edge Computing
+
+## Aerohive on APIs.io (historical record)
+
+Everything profiled for Aerohive is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aerohive/](https://apis.io/providers/aerohive/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [GitHub](https://github.com/aerohive)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aerohive: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aerohive/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
